@@ -1,34 +1,6 @@
-
-
-
-img { 
-	border: 2px solid #54C03F;
-	border-radius: 50%;
+.cover {
+ background-image: url("laptop.jpg");
+ background-position: center;
+ background-size: cover;
+ min-height: 150px;
 }
-
-body { 
-	font-family: Arial 
-}
-
-h1, h2 {
-	font-family: Arial; 
-	color: green;
-	font-variant: small-caps;
-	}
-.naglowek {
-	background-color: #D1FAD2;
-	padding: 10px;
-}
-		
- a {
-	 color: darkgreen;
-	 text-decoration: none;
-	 font-weight: bold;
- }
- input {
-	 margin-bottom: 10px;
-	 border-radius: 5px;
- } 
- 
-
-
